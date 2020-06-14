@@ -1,0 +1,5 @@
+anaconda3/
+scratch/
+.DS_Store
+.ipynb_checkpoints/
+.workshop_profile
