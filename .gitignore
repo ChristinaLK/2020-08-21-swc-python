@@ -3,3 +3,5 @@ scratch/
 .DS_Store
 .ipynb_checkpoints/
 .workshop_profile
+*ipynb
+data/output.csv
